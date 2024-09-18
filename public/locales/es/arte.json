@@ -1,0 +1,100 @@
+{
+  "arte": {
+    "name": "Arte",
+    "title": "Arqueología & Arquitectura del Parque Nacional Tikal en Guatemala",
+    "href": "/",
+    "description": "Parque-Tikal.com está dirigido a viajeros que desean aprender más acerca de la arqueología y arquitectura del Parque Nacional Tikal. Esperamos disfrute de nuestra selección de los complejos más importantes de Tikal. Descubra diferentes complejos y estructuras durante su estancia.",
+    "paragraph": "Disfrute de la belleza natural que rodea los templos en Tikal y contribuya a la conservación de nuestro parque a través de su visita con Parque-Tikal.com...",
+
+    "more_info": {
+      "title": "Más Información",
+      "related_posts": [
+        {
+          "title": "Tikal Arqueología y Arquitectura",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Tikal Datos / Primeros Exploradores ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Excavación de Pensilvania en Tikal / Proyecto Nacional Tikal",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Los Antiguos Mayas de Tikal ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Gobernantes Dinásticos de Tikal",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Calendarios & El Sistema de Cuenta Larga ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Glifo Emblema de Tikal",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Acrópolis",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Mundo Perdido ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "La Gran Plaza de Tikal",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Complejos Piramidales Gemelos",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Grupo H / G / F / Palacio de los Murciélagos",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Templos de Tikal ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Las Calzadas de Tikal ",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Juegos de Pelota",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "Los Museos de Tikal y El Centro de Visitantes",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        },
+        {
+          "title": "FAMSI - Vasijas de Cerámica de Tikal y más Cerámica Maya (Link Externo)",
+          "href": "#",
+          "url_image": "https://placehold.co/72x80"
+        }
+      ]
+    }
+  }
+}

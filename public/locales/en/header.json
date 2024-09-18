@@ -1,0 +1,64 @@
+{
+  "header": {
+    "top_label": "Special Offer",
+    "top_message_link": "Click here to learn more",
+    "nav_menu": {
+      "home": {
+        "title": "Home",
+        "section": {
+          "title": "Welcome to Tikal",
+          "message": "Explore the most significant Maya city!",
+          "text_button": "Learn More"
+        },
+        "href": "/",
+        "activity1": {
+          "title": "Mayan Temples",
+          "tags": "History, Culture, Exploration",
+          "src": "/assets/imgs/template/icons/activity.svg"
+        },
+        "activity2": {
+          "title": "Nature Reserves",
+          "tags": "Nature, Biodiversity",
+          "src": "/assets/imgs/template/icons/map.svg"
+        },
+        "picture": {
+          "src": "/assets/imgs/template/world.png"
+        }
+      },
+      "art": {
+        "title": "Art",
+        "href": "/arte",
+        "activity1": {
+          "title": "Ancient Pottery",
+          "tags": "Culture, Artifacts",
+          "src": "/assets/imgs/template/ancient_pottery.jpg"
+        },
+        "arch": "/arte"
+      },
+      "science": {
+        "title": "Science",
+        "meteorology": "Meteorology",
+        "hydrology": "Hydrology"
+      },
+      "transport": {
+        "title": "Transport"
+      },
+      "lodging": {
+        "title": "Lodging"
+      },
+      "tours": {
+        "title": "Tours",
+        "href": "/tours"
+      },
+      "maps": {
+        "title": "Maps"
+      },
+      "contact": {
+        "title": "Contact Us"
+      },
+      "about": {
+        "title": "About"
+      }
+    }
+  }
+}

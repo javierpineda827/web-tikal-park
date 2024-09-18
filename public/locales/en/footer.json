@@ -1,0 +1,62 @@
+{
+  "footer": {
+    "logoAlt": "Travila",
+    "help": {
+      "text": "Need help? Call us",
+      "phone": "(+502) 5979-3030"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "hours": "Hours: 8:00 - 17:00, Mon - Sat",
+      "email": {
+        "primary": "descubrelmundomaya@gmail.com",
+        "secondary": "tikalpark@tikalpark.com"
+      },
+      "followUs": "Follow us"
+    },
+    "socials": {
+      "instagramAlt": "Instagram",
+      "facebookAlt": "Facebook",
+      "twitterAlt": "Twitter",
+      "behanceAlt": "Behance"
+    },
+    "sections": {
+      "help": {
+        "title": "Help",
+        "terms": "Terms and Conditions",
+        "security": "Security",
+        "privacy": "Privacy"
+      },
+      "about": {
+        "title": "About Us",
+        "aboutUs": "About",
+        "contactUs": "Contact Us"
+      },
+      "services": {
+        "title": "Services",
+        "tourGuide": "Tour Guide",
+        "excursionBooking": "Excursion Booking",
+        "hotelBooking": "Hotel Booking",
+        "rentalServices": "Rental Services"
+      },
+      "legal": {
+        "title": "Legal Terms",
+        "serviceConditions": "Service Conditions",
+        "privacyPolicy": "Privacy Policy",
+        "cookiePolicy": "Cookie Policy",
+        "dataProcessing": "Data Processing",
+        "dataPolicy": "Data Policy",
+        "refundPolicy": "Refund Policy"
+      }
+    },
+    "footerBottom": {
+      "copyright": "© 1998-{year} Ecotourism-Adventure. All Rights Reserved.",
+      "menu": {
+        "terms": "Terms and Conditions",
+        "privacy": "Privacy Policy",
+        "legalNotice": "Legal Notice",
+        "accessibility": "Accessibility"
+      }
+    }
+  }
+}

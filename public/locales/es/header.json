@@ -1,0 +1,179 @@
+{
+  "header": {
+    "top_label": "Oferta Especial",
+    "top_message_link": "Haz clic aquí para saber más",
+    "nav_menu": {
+      "home": {
+        "title": "Inicio",
+        "href": "/",
+        "section": {
+          "title": "Bienvenido a Tikal",
+          "message": "¡Explora la ciudad maya más importante!",
+          "text_button": "Saber Más",
+          "href": "/tikal"
+        },
+        "card_1": {
+          "title": "Mayas",
+          "href": "/mayas",
+          "icon": "/assets/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Historia", "href": "#" },
+            { "id": "2", "title": "Cultura", "href": "#" },
+            { "id": "3", "title": "Exploración", "href": "#" }
+          ]
+        },
+        "card_2": {
+          "title": "Reservas Naturales",
+          "href": "/mayas",
+          "icon": "/assets/imgs/template/icons/map.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Naturaleza", "href": "#" },
+            { "id": "2", "title": "Biodiversidad", "href": "#" }
+          ]
+        },
+        "card_3": {
+          "title": "Reservas Naturales",
+          "href": "/Mayas",
+          "icon": "/assets/imgs/template/icons/deck-chair.svg",
+          "href_icon": "/Mayas",
+          "tags": [
+            { "id": "1", "title": "Naturaleza", "href": "#" },
+            { "id": "2", "title": "Biodiversidad", "href": "#" }
+          ]
+        },
+        "picture": {
+          "src": "/assets/imgs/template/world.png"
+        }
+      },
+      "art": {
+        "title": "Arte",
+        "href": "/arte",
+        "card_1": {
+          "title": "Cerámica Antigua",
+          "href": "/mayas",
+          "icon": "/assets/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Cultura", "href": "#" },
+            { "id": "2", "title": "Artefactos", "href": "#" }
+          ]
+        },
+        "card_2": {
+          "title": "Arte",
+          "href": "/mayas",
+          "icon": "/assets/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            {
+              "id": "1",
+              "title": "Observación de Aves, Tikal, Yaxhá, Fechas fijas de salida",
+              "href": "#"
+            }
+          ]
+        },
+        "featured_list_1": [
+          {
+            "href": "/index-7",
+            "className": "hotels",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/index-8",
+            "className": "rental-car",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/index-9",
+            "className": "property",
+            "text": "Tikal / Los Primeros Exploradores"
+          }
+        ],
+        "featured_list_2": [
+          {
+            "href": "/index-7",
+            "className": "tours",
+            "text": "La Secuencia Dinástica de Tikal"
+          },
+          {
+            "href": "/index-8",
+            "className": "activities",
+            "text": "Calendarios y El Sistema de la Cuenta Larga"
+          },
+          {
+            "href": "/index-9",
+            "className": "destinations",
+            "text": "El Emblema Glifo de Tikal"
+          }
+        ],
+        "arch": "/arte",
+        "picture": [
+          {
+            "text": "Pieza de Cerámica",
+            "url_image": "/assets/imgs/template/arte_plate.jpg",
+            "alt": "Pieza de Cerámica"
+          },
+          {
+            "text": "Sunrise Guatemala",
+            "url_image": "/assets/imgs/template/Sunrise_Guatemala.jpg",
+            "alt": "Sunrise Guatemala"
+          }
+        ]
+      },
+      "science": {
+        "title": "Ciencia",
+        "meteorology": "Meteorología",
+        "hydrology": "Hidrología"
+      },
+      "transport": {
+        "title": "Transporte"
+      },
+      "lodging": {
+        "title": "Alojamiento"
+      },
+      "tours": {
+        "title": "Tours",
+        "href": "/tours",
+        "featured_list_1": [
+          {
+            "href": "/index-7",
+            "className": "hotels",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/index-8",
+            "className": "rental-car",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/index-9",
+            "className": "property",
+            "text": "Tikal / Los Primeros Exploradores"
+          }
+        ],
+        "picture": [
+          {
+            "text": "Icterus galbula",
+            "url_image": "/assets/imgs/template/bird1.jpg",
+            "alt": "Icterus galbula"
+          },
+          {
+            "text": "Volcán de Pacaya",
+            "url_image": "/assets/imgs/template/HighlandTour.jpg",
+            "alt": "Volcán de Pacaya"
+          }
+        ]
+      },
+      "maps": {
+        "title": "Mapas"
+      },
+      "contact": {
+        "title": "Contáctanos"
+      },
+      "about": {
+        "title": "Acerca de"
+      }
+    }
+  }
+}

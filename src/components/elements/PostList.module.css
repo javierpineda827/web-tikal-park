@@ -1,0 +1,10 @@
+[name="title"] {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1; /* Número de líneas a mostrar */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Esto agrega el elipsis */
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+  width: 100%; /* Ajusta el ancho según sea necesario */
+  max-width: 200px; /* O establece un ancho máximo */
+}

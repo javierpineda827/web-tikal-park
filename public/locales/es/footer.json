@@ -1,0 +1,73 @@
+{
+  "footer": {
+    "logoAlt": "Travila",
+    "help": {
+      "text": "¿Necesita ayuda? Llámanos",
+      "tel": "+50259793030",
+      "phone": "(+502) 5979-3030"
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "hours": "Hours: 8:00 - 17:00, Mon - Sat",
+      "email": {
+        "primary": "descubrelmundomaya@gmail.com",
+        "secondary": "tikalpark@tikalpark.com"
+      },
+      "followUs": "Follow us"
+    },
+    "socials": {
+      "instagramAlt": "Instagram",
+      "instagramHref": "Instagram",
+      "facebookAlt": "Facebook",
+      "facebookHref": "Facebook",
+      "twitterAlt": "Twitter",
+      "twitterHref": "Twitter",
+      "behanceAlt": "Behance",
+      "behanceHref": "Behance"
+    },
+    "sections": {
+      "help": {
+        "title": "Ayuda",
+        "terms": "Términos Legales",
+        "termsHref": "#",
+        "security": "Seguridad",
+        "securityHref": "#",
+        "privacy": "Privacidad",
+        "privacyHref": "#"
+      },
+      "about": {
+        "title": "Nosotros",
+        "aboutUs": "Acerca de",
+        "aboutUsHref": "#",
+        "contactUs": "Contáctenos",
+        "contactUsHref": "#"
+      },
+      "services": {
+        "title": "Servicios",
+        "tourGuide": "Guía turística",
+        "excursionBooking": "Reserva de excursiones",
+        "hotelBooking": "Reserva de hotel",
+        "rentalServices": "Servicios de alquiler",
+        "servicesHref": "#"
+      },
+      "legal": {
+        "title": "Términos Legales",
+        "serviceConditions": "Condiciones del servicio",
+        "privacyPolicy": "Política de privacidad",
+        "cookiePolicy": "Política de cookies",
+        "dataProcessing": "Tratamiento de datos",
+        "dataPolicy": "Política de datos",
+        "refundPolicy": "Política de reembolso"
+      }
+    },
+    "footerBottom": {
+      "copyright": "© 1998-{year} Ecotourism-Adventure. Todos los Derechos Reservados.",
+      "menu": {
+        "terms": "Términos y Condiciones",
+        "privacy": "Políticas de Privacidad",
+        "legalNotice": "Aviso legal",
+        "accessibility": "Accesibilidad"
+      }
+    }
+  }
+}
