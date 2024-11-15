@@ -1,0 +1,24 @@
+{
+  "title": "Bienvenido al Parque Nacional de Tikal, en Guatemala",
+  "location": { "text": "Petén, Guatemala", "href": "#" },
+  "article": {
+    "title": "Parque Nacional de Tikal",
+    "paragraph_1": "Tikal es el mayor yacimiento excavado del continente americano y contiene algunos de los restos arqueológicos más fascinantes de la antigua civilización maya. Es la reserva cultural y natural más famosa de Guatemala y fue declarada parque nacional en 1955 y Patrimonio de la Humanidad por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) en 1979.",
+    "paragraph_2": "Tikal comprende 576 km <sup className='text-xs'>2</sup> de exuberante selva que rodea el centro ceremonial maya. La Universidad de Pensilvania tardó 13 años en descubrir unos 10 mi2 de estructuras en Tikal. Sin embargo, aún queda mucho por desenterrar. Así que siga un consejo. No intente ver todo Tikal en un día, aunque esté en excelente forma.",
+    "fig_img_1": "/imgs/page/home/Tikal_temple_5.jpg",
+    "fig_caption_1": "Escalera del Templo V: Se puede subir a este templo utilizando una escalera lateral de madera. La vista de la Gran Plaza de Tikal desde lo alto del Templo V es imperdible si vas a pasar al menos una tarde en Tikal.",
+    "paragraph_3": "Tikal siguió siendo un misterio durante siglos, tras ser abandonada abruptamente por los mayas hace más de 1.000 años y cubierta por una implacable selva. Entre los mayas itza sólo sobrevivió la leyenda de una ciudad perdida, donde sus antepasados habían alcanzado un gran desarrollo cultural. En 1848 la leyenda se desvaneció, dando paso a una apasionante era de descubrimientos. Fue un descubrimiento serendípico realizado por Ambrosio Tut, un recolector de chicles o chiclero.",
+    "paragraph_4": "Vio a lo lejos los peines del techo de los templos. Corrió a la ciudad isleña de Flores para informar a Modesto Méndez, entonces gobernador de la provincia de Petén, en el norte de Guatemala. Cuando llegaron al yacimiento, los impresionantes templos, las plazas abiertas y los edificios de varios pisos, donde antaño vivían sacerdotes y reyes, se erguían ante los propios ojos del gobernador Méndez y Ambrosio Tut... Visitaron el sitio con un artista (Eusebio Lara), que grabó algunas de las tallas de Tikal. Sus hallazgos y dibujos fueron publicados por la Academia de Ciencias de Berlín en 1853. Fue sólo cuestión de unos pocos años antes de que curiosos estudiosos comenzaran a viajar desde todos los rincones del mundo. Querían ver con sus propios ojos lo que Méndez, Lara y Tut habían descubierto.",
+    "fig_img_2": "/imgs/page/home/tikalaerial7.jpg",
+    "fig_caption_2": "Escalera del Templo V: Se puede subir a este templo utilizando una escalera lateral de madera. La vista de la Gran Plaza de Tikal desde lo alto del Templo V es imperdible si vas a pasar al menos una tarde en Tikal.",
+    "paragraph_5": "Tikal fue declarado parque nacional en 1955. Fue declarado un Patrimonio Mundial por UNESCO en 1979. Es parte de la Reserva de Biosfera Maya, parte del programa de UNESCO El Hombre y la Biosfera y fue declarado reserva de biosfera en 1990 por decreto presidencial, por medio del cual fue creado el Consejo Nacional de Aerea Protegidas -CONAP-",
+    "paragraph_6": "El Parque Nacional Tikal es administrado por el Instituto de Antropologia e Historia IDAEH. Hemos incluido las siguientes secciones acerca de: el manejo del parque y el reglamento del parque, asi como otra informacion interesante acerca de Tikal en nuestra pagina: Datos Interesantes : &ldquo;Sabias que...?&rdquo;",
+    "paragraph_7": "Permítanos llevarle en un viaje a través del tiempo mientras exploramos el Parque Nacional Tikal. Aqui hay una visita de autoguiada de Tikal: caminando por Tikal. Tambien hemos incluido un video cortesia de 3004 Studio en Los Angeles (gracias Galen Brown)"
+  },
+  "aside": {
+    "title": "Ceremonia de fuego Maya",
+    "fig_img_1": "/imgs/page/home/ceremonyprepare copyrigth.jpg",
+    "fig_caption_1": "Tikal es un santuario y centro ceremonial, utilizado hasta el día de hoy por los descendientes del pueblo que lo construyó. El uso de Tikal para ceremonias está regulado por el Ministerio de Cultura a través del Instituto de Antropología e Historia IDAEH y sólo los sacerdotes Aj Q&lsquo;ij o mayas autorizados pueden realizar ceremonias en los lugares designados.",
+    "fig_caption_2": "Quizás tengas la suerte de ver una ceremonia de fuego maya mientras estés en Tikal... La próxima oportunidad de hacerlo será el 15 de marzo de 2022, para el Año Nuevo Maya (calendario Haab de 260 días, en Waxaquib Batz en ese Calendario)."
+  }
+}

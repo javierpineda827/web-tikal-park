@@ -1,0 +1,83 @@
+{
+  "footer": {
+    "logoAlt": "parque-tikal",
+    "help": {
+      "text": "",
+      "tel": "+50259793030",
+      "phone": "+502 5979-3030"
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "hours": "",
+      "email": {
+        "primary": "tikalpark@tikalpark.com",
+        "secondary": ""
+      },
+      "followUs": "Síguenos en"
+    },
+    "socials": {
+      "instagramAlt": "Instagram",
+      "instagramHref": "https://www.instagram.com/",
+      "facebookAlt": "Facebook",
+      "facebookHref": "https://www.facebook.com/",
+      "twitterAlt": "Twitter",
+      "twitterHref": "https://www.x.com/",
+      "youtubeAlt": "youtube",
+      "youtubeHref": "https://www.youtube.com/@tikalpark"
+    },
+    "sections": {
+      "help": {
+        "title": "Ayuda",
+        "terms": "Términos Legales",
+        "termsHref": "/terms-legals",
+        "security": "Seguridad",
+        "securityHref": "/security",
+        "privacy": "Privacidad",
+        "privacyHref": "/privacy-policy"
+      },
+      "about": {
+        "title": "Nosotros",
+        "aboutUs": "Acerca de",
+        "aboutUsHref": "/aboutmenu",
+        "contactUs": "Contáctenos",
+        "contactUsHref": "/contact-us"
+      },
+      "services": {
+        "title": "Servicios",
+        "tourGuide": "Guía turística",
+        "excursionBooking": "Reserva de excursiones",
+        "hotelBooking": "Reserva de hotel",
+        "rentalServices": "Servicios de alquiler",
+        "servicesHref": "/services"
+      },
+      "legal": {
+        "title": "Términos Legales",
+        "serviceConditions": "Condiciones del servicio",
+        "serviceConditionsHref": "/service-conditions",
+        "privacyPolicy": "Política de privacidad",
+        "privacyPolicyHref": "/privacy",
+        "cookiePolicy": "Política de cookies",
+        "cookiePolicyHref": "/cookie-policy",
+        "dataProcessing": "Tratamiento de datos",
+        "dataProcessingHref": "/data-processing",
+        "dataPolicy": "Política de datos",
+        "dataPolicyHref": "/data-policy",
+        "refundPolicy": "Política de reembolso",
+        "refundPolicyHref": "/refund-policy"
+      }
+    },
+    "footerBottom": {
+      "copyright": "© 1998-{year} Ecotourism-Adventure.com Todos los Derechos Reservados.",
+      "menu": {
+        "terms": "Términos y Condiciones",
+        "termsHref": "terms-and-conditions",
+        "privacy": "Políticas de Privacidad",
+        "privacyHref": "/privacy-policy",
+        "legalNotice": "Aviso legal",
+        "legalNoticeHref": "/legal-notice",
+        "accessibility": "Accesibilidad",
+        "accessibilityHref": "/Accesibilidad"
+      }
+    }
+  }
+}

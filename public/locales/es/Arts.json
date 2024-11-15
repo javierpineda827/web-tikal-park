@@ -1,0 +1,64 @@
+{
+  "title": "Arqueología & Arquitectura del Parque Nacional Tikal en Guatemala",
+  "location": { "text": "Petén, Guatemala", "href": "#" },
+  "article": {
+    "title": "Arqueología & Arquitectura del Parque Nacional Tikal en Guatemala",
+    "label_1": "Arqueología",
+    "paragraph_1": "<a href='/explorers'>Tikal / Los Primeros Exploradores</a>",
+    "paragraph_2": "<a href='/'>La Excavación de Pennsylvania / El Proyecto Nacional Tikal</a>",
+    "paragraph_3": "<a href='#'>Los Antiguos Mayas</a>",
+    "paragraph_4": "<a href='#'>La Secuencia Dinástica de Tikal</a>",
+    "paragraph_5": "<a href='#'>Calendarios y El Sistema de la Cuenta Larga</a>",
+    "paragraph_6": "<a href='#'>El Emblema Glifo de Tikal</a>",
+    "label_2": "Arquitectura",
+    "paragraph_7": "<a href='#'>Las Acrópolis de Tikal: Acropolis del Norte / Acrópolis Central / Acrópolis del Sur / Acrópolis del Este </a>",
+    "paragraph_8": "<a href='#'>Mundo Perdido</a>",
+    "paragraph_9": "<a href='#'>La Gran Plaza de Tikal</a>",
+    "paragraph_10": "<a href='#'>Complejos Piramidales Gemelos: Complejo Q/ Complejo N/ Complejo P</a>",
+    "paragraph_11": "<a href='#'>Grupo H/ Grupo G/ Grupo F/ El Palacio de los Murciélagos</a>",
+    "paragraph_12": "<a href='#'>Los Templos de Tikal: Templo 3/ Templo 4/ Templo 5/ Templo 6</a>",
+    "paragraph_13": "<a href='#'>Las Calzadas de Tikal</a>",
+    "paragraph_14": "<a href='#'>Juegos de Pelota</a>",
+    "paragraph_15": "<a href='#'>Los Museos de Tikal y El Centro de Visitantes</a>",
+    "thanks": "",
+    "fig_img_1": "/imgs/page/art/tikalcomplexp.jpg",
+    "fig_caption_1": "Vista aérea del Complejo P de Tikal",
+
+    "fig_img_2": "/imgs/page/art/lostworld.jpg",
+    "fig_caption_2": "Pirámide del Mundo Perdido mostrando el &ldquo;talud tablero&rdquo;, atribuido a la cultura Teotihuacana en el curso del descubrimiento arqueológico. Se encontraron &ldquo;taludes&rdquo; en El Mirador fechados mucho antes de la existencia de Teotihuacan",
+    "fig_img_3": "/imgs/page/parkmag/Background07.jpg",
+    "fig_caption_3": "Las mariposas Neo Tropicales son indicadores de la salud de un ecosistema... Tours científicos y fotográficos con guías especializados disponibles bajo pedido "
+  },
+  "aside": {
+    "title": "Ceremonia de fuego Maya",
+    "fig_img_1": "/imgs/page/art/plate.jpg",
+    "fig_caption_1": "Hermosas piezas que se encuentran en el Museo Cerámico de Tikal traen la cotidianidad de los antiguos Mayas de Tikal a la vida (Fotografía: H. Schwank)",
+    "fig_caption_2": "",
+    "paragraphs": [
+      {
+        "text": "<p>Parque-Tikal.com está dirigido a viajeros que desean aprender más acerca de la arqueología y arquitectura del Parque Nacional Tikal. Esperamos disfrute de nuestra selección de los complejos más importantes de Tikal. Descubra diferentes complejos y estructuras durante su estancia. </p> "
+      },
+      {
+        "text": "Disfrute de la belleza natural que rodea los templos en Tikal y contribuya a la conservación de nuestro parque a través de su visita con Parque-Tikal.com...<br/>"
+      },
+      {
+        "text": "<a href='#'>¿Quiénes son los mayas? </a>"
+      },
+      {
+        "text": "<p>Al citar alguno de los contenidos de este sitio, por favor asegúrese de mencionar su fuente</p>"
+      },
+      {
+        "text": "<p>Por último, este sitio no es el sitio oficial de Internet del parque, ni refleja los puntos de vista de las autoridades gubernamentales.</p>"
+      },
+      {
+        "text": "<p>Esta es una contribución del sector privado, por Ecoturismo y Aventura Especialistas y la Asociación para el Desarrollo del Mundo Maya, hacia la educación en nuestra cultura y la historia de los antiguos mayas, así como para apoyar la protección y la investigación de Guatemala de patrimonio. Este sitio está en constante revisión y actualización amd todo el precio publicado es actual y fiable..</p>"
+      },
+      {
+        "text": "<p>Esperamos que disfruten de www.parque-tikal.com  y de su versión en ingles www.tikalpark.com </p>"
+      },
+      {
+        "text": "<p>Escríbanos a tikalpark@tikalpark.com para organizar su visita a Tikal y a Guatemala, un mágico paraíso natural y un mosaico cultural en el centro del Mundo Maya.</p>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Tours del Parque Tikal",
+  "hours": "El Parque Nacional Tikal está abierto de 6 a.m. a 6 p.m., todos los días de la semana, los 365 días del año!",
+  "destinations": [
+    {
+      "text": "Tour privado de rbnse al amanecer",
+      "href": "https://www.wetravel.com/trips/tour-privado-de-rbnse-al-amanecer-ecotourism-adventure-specialists-llc-95027582",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/1efuNqwISVCXbj47EwFl",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "1 - 8",
+      "days": ""
+    },
+    {
+      "text": "Tour de un día en helicóptero a el Mirador",
+      "href": "https://www.wetravel.com/trips/tour-de-un-dia-en-helicoptero-a-el-mirador-ecotourism-adventure-specialists-llc-51621219",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/ptVooDEITHOzdUmhOvam",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "1 - 4",
+      "days": ""
+    },
+    {
+      "text": "Tour privado arqueológico & de naturaleza en Tikal",
+      "href": "https://www.wetravel.com/trips/tour-privado-arqueologico-de-naturaleza-en-tikal-grupos-10-pax-ecotourism-adventure-specialists-llc-44729627",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/4Ic1A2cUQI6CkBCFUjph",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "10 - 10",
+      "days": ""
+    },
+    {
+      "text": "Tour privado arqueologico & de naturaleza en Tikal",
+      "href": "https://www.wetravel.com/trips/tour-privado-arqueologico-de-naturaleza-en-tikal-grupos-ecotourism-adventure-specialists-llc-86679909",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/4Ic1A2cUQI6CkBCFUjph",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "7 - 14"
+    },
+    {
+      "text": "Tour privado de tikal al amanecer",
+      "href": "https://www.wetravel.com/trips/tour-privado-de-tikal-al-amanecer-para-1-a-6-personas-ecotourism-adventure-specialists-llc-94376955",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/JEjZuoFTs6rQZJMWwwQM",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "1-6",
+      "days": ""
+    },
+    {
+      "text": "Tour de la canopée de Tikal",
+      "href": "https://www.wetravel.com/trips/tour-de-la-canopee-de-tikal-ecotourism-adventure-specialists-llc-86691157",
+      "img": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/qxitfKpZQtmRyZNYXlbF",
+      "group_size": "Tamaño del grupo: ",
+      "number_people": "1-9",
+      "days": ""
+    }
+  ]
+}

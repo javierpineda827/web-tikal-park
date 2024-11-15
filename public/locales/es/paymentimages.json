@@ -1,0 +1,43 @@
+{
+  "breadcrumb_home": [
+    { "title": "Inicio", "href": "/" },
+    { "title": "Hoteles", "href": "/hotels" },
+    { "title": "Parque Tikal", "href": "/hotels" }
+  ],
+  "title": "En dónde quedarse en el Parque Nacional Tikal, Flores, El Remate o en sus alrededores",
+  "subtitle": "La Isla de Flores o El Remate también son buenos lugares para alojarse cuando visite Tikal, sobre todo si tiene un vuelo temprano o un traslado terrestre",
+  "images": [
+    [{ "src": "/imgs/page/hotel/tikprivateair.jpg" }],
+    [
+      { "src": "/imgs/page/hotel/cloudforest.jpg" },
+      { "src": "/imgs/page/hotel/tikcun4d3n.jpg" }
+    ],
+    [
+      { "src": "/imgs/page/hotel/tikguaovernight.jpg" },
+      { "src": "/imgs/page/hotel/ceibalstela33.jpg" }
+    ]
+  ],
+  "box_payment": {
+    "button_text": "Easy payment",
+    "title": "TOUR DE UN DIA DE TIKAL incluyendo boleto aéreo",
+    "text": "Puedes elegir entre nuestras opciones de tours de Tikal y visitar Tikal por el día, ya sea con un grupo o con un guía solo para ti y tus acompañantes, en nuestro tour privado de Tikal. Nuestras opciones de tour de un día son con un fuerte enfoque en arqueología"
+  },
+  "testimonials": [
+    {
+      "title": "The best booking system",
+      "description": "I've been using the hotel booking system for several years now...",
+      "authorName": "Sara Mohamed",
+      "authorLocation": "Jakarta",
+      "authorImage": "/imgs/page/homepage1/author.png",
+      "rating": 5
+    },
+    {
+      "title": "Fantastic platform",
+      "description": "It's become my go-to platform for planning my trips...",
+      "authorName": "Atend John",
+      "authorLocation": "California",
+      "authorImage": "/imgs/page/homepage1/author2.png",
+      "rating": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "news": {
+    "cards": [
+      {
+        "label": "Cultural",
+        "date": "18 Sep 2024",
+        "time": "6 mins",
+        "comments": 38,
+        "title": "Guía definitiva para planificar un viaje: 10 consejos para un viaje sin problemas",
+        "author": "Jimmy Dave",
+        "imgSrc": "/imgs/page/homepage1/news.png",
+        "alt": "Imagen de viaje cultural",
+        "link": "/blog-detail-2"
+      },
+      {
+        "label": "Viaje",
+        "date": "19 Sep 2024",
+        "time": "5 mins",
+        "comments": 12,
+        "title": "Los 10 mejores trucos de viaje para aventureros con presupuesto limitado",
+        "author": "Maria Lopez",
+        "imgSrc": "/imgs/page/homepage1/news2.png",
+        "alt": "Imagen de trucos de viaje",
+        "link": "/blog-detail-3"
+      },
+      {
+        "label": "Descubrimiento",
+        "date": "20 Sep 2024",
+        "time": "7 mins",
+        "comments": 50,
+        "title": "Descubriendo joyas escondidas: 10 consejos de viaje fuera de los caminos trillados",
+        "author": "Carlos García",
+        "imgSrc": "/imgs/page/homepage1/news3.png",
+        "alt": "Imagen de descubrimiento de viaje",
+        "link": "/blog-detail-4"
+      }
+    ]
+  }
+}

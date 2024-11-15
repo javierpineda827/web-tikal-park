@@ -1,0 +1,96 @@
+{
+  "title": "",
+  "location": { "text": "", "href": "#" },
+  "article": {
+    "title": "Tours En Helicóptero En El Altiplano Guatemalteco",
+    "label_1": "",
+    "paragraph_1": "Nuestros tours en helicóptero en el altiplano incluyen transporte al Lago de Atitlán, Retalhuleu y la Costa del Pacífico, así como nuestros famosos tours de avistamiento de volcanes. Lo nuevo de Ecoturismo & Aventura Especialistas son los tours de heli-bike, en su mayoría descensos extremos en laderas volcánicas, sólo para amantes de la adrenalina... Escríbanos a helitours@miradorpark.com",
+    "paragraph_2": "",
+    "paragraph_3": "",
+    "paragraph_4": "",
+    "paragraph_5": "",
+    "paragraph_6": "",
+    "cards": [
+      {
+        "id": "1",
+        "title": "Pacaya Volcano National Park",
+        "text": "<small><ul><li>14.38 N, 90.60 W</li><li>altitud de la cumbre 2552 m</li><li>Volcán complejo</li></ul> </small><br/><p>  Pacaya es uno de los volcanes más activos del mundo y uno de los tres volcanes más activos de Guatemala y Centroamérica. También forma parte del conocido Anillo de Fuego. Se encuentra a unos 25 km al sur de Ciudad de Guatemala y a sólo 1 hora en coche de la ciudad colonial de Antigua o de Ciudad de Guatemala. La actividad del volcán consiste en erupciones estrombolianas, erupciones de ceniza y flujos de lava. </p> <p>El volcán de Pacaya puede explorarse con transporte terrestre para ir de excursión al volcán desde Antigua. Sin embargo, para obtener una perspectiva más interesante recomendamos ver ambos hermosos volcanes desde el aire, y hacer nuestro helitour Pacaya y Volcanes de Agua. Para conocer más sobre el Volcán de Pacaya por favor haga click en esta sección: Ecoturismo y Aventura Volcán Pacaya.</p>",
+        "img": "/imgs/page/tour/Pacaya.jpg",
+        "href": ""
+      },
+      {
+        "id": "2",
+        "title": "Agua Volcano",
+        "text": "<small><ul><li>14.465 N, 90.743 W</li><li>altitud de la cumbre 3760 m</li><li>Estratovolcán</li></ul> </small><br/>  Agua es un cono volcánico simétrico situado en el altiplano guatemalteco. El volcán contiene seis pequeños cráteres en el flanco NO. La cima contiene un cráter circular de 250 m de diámetro, que se abre hacia el NNE. Las paredes del cráter están cubiertas de vegetación. No se han producido erupciones históricas en el volcán.</p><p>Si está interesado en realizar una excursión panorámica en helicóptero a los volcanes de Pacaya y Agua, póngase en contacto con nosotros por correo electrónico escribiendo a helitours@miradorpark.com al número gratuito 1.800.297.1880 desde EE.UU. o llamando al (502)55213300 o 51156634. Normalmente necesitaremos saber el número de participantes, así como el peso de cada persona en libras para poder calcular el peso total y decidir qué helicóptero será el más adecuado para usted.</p>",
+        "img": "/imgs/page/tour/Agua.jpg",
+        "href": ""
+      },
+      {
+        "id": "3",
+        "title": "Acatenango Volcano",
+        "text": "<small><ul><li>14.50 N, 90.87 W</li><li>altitud de la cumbre 3976 m</li><li>Estratovolcán</li></ul> </small><br/><p>  Acatenango es un estratovolcán de Guatemala, cerca de la ciudad de Antigua. El volcán tiene dos picos, Pico Mayor y Yepocapa, y su nombre significa «Dos cabezas». Durante el siglo XX, las explosiones freáticas expulsaron bombas que cayeron cerca de los cráteres de la cumbre y la ceniza se precipitó hasta 25 km de distancia.</p><p>En Acatenango se produjeron erupciones explosivas hace 1900 años (Pico Mayor), hace 2300 años (Pico Mayor) y hace unos 5000 años (Yepocapa). Los flujos piroclásticos ocurrieron en el volcán Acatenango hace unos 2000 años. Las distancias de escurrimiento de los flujos piroclásticos son de hasta 12 km desde la cumbre.</p>",
+        "img": "/imgs/page/tour/acatenango.jpg",
+        "href": ""
+      },
+      {
+        "id": "4",
+        "title": "Acatenango Volcano",
+        "text": "<small><ul><li>14.47 N, 90.88 W</li><li>altitud de la cumbre 3763 m </li><li>Estratovolcán</li></ul> </small><br/><p>  Fuego es uno de los volcanes más activos del continente americano y ha entrado en erupción repetidamente desde 1524. Se encuentra cerca de la ciudad de Antigua Guatemala. Las erupciones han producido caída de cenizas, flujos piroclásticos y coladas de lava. El cráter de Fuego, ha cambiado su aspecto muchas veces, desde la erupción de 1932.</p><p>Si está interesado en realizar una excursión panorámica en helicóptero a los volcanes de Pacaya y Agua, póngase en contacto con nosotros por correo electrónico escribiendo a helitours@miradorpark.com en el número gratuito 1.800.297.1880 desde EE.UU. o llamando al (502)55213300 o 51156634. Normalmente necesitaremos saber el número de participantes, así como el peso de cada persona en libras para poder calcular el peso total y decidir qué helicóptero será el más adecuado para usted.</p>",
+        "img": "/imgs/page/tour/fuego.jpg",
+        "href": ""
+      }
+    ],
+
+    "label_2": "",
+    "paragraph_7": "",
+    "paragraph_8": "",
+    "paragraph_9": "",
+    "paragraph_10": "",
+    "paragraph_11": "",
+    "paragraph_12": "",
+    "paragraph_13": "",
+    "paragraph_14": "",
+    "paragraph_15": "",
+    "thanks": "",
+
+    "fig_img_1": "",
+    "fig_caption_1": "",
+
+    "fig_img_2": "",
+    "fig_caption_2": "",
+    "fig_img_3": "",
+    "fig_caption_3": ""
+  },
+  "aside": {
+    "title": "Ceremonia de fuego Maya",
+    "fig_img_1": "/imgs/page/art/plate.jpg",
+    "fig_caption_1": "Hermosas piezas que se encuentran en el Museo Cerámico de Tikal traen la cotidianidad de los antiguos Mayas de Tikal a la vida (Fotografía: H. Schwank)",
+    "fig_caption_2": "",
+    "paragraphs": [
+      {
+        "text": "<p>Parque-Tikal.com está dirigido a viajeros que desean aprender más acerca de la arqueología y arquitectura del Parque Nacional Tikal. Esperamos disfrute de nuestra selección de los complejos más importantes de Tikal. Descubra diferentes complejos y estructuras durante su estancia. </p> "
+      },
+      {
+        "text": "Disfrute de la belleza natural que rodea los templos en Tikal y contribuya a la conservación de nuestro parque a través de su visita con Parque-Tikal.com...<br/>"
+      },
+      {
+        "text": "<a href='#'>¿Quiénes son los mayas? </a>"
+      },
+      {
+        "text": "<p>Al citar alguno de los contenidos de este sitio, por favor asegúrese de mencionar su fuente</p>"
+      },
+      {
+        "text": "<p>Por último, este sitio no es el sitio oficial de Internet del parque, ni refleja los puntos de vista de las autoridades gubernamentales.</p>"
+      },
+      {
+        "text": "<p>Esta es una contribución del sector privado, por Ecoturismo y Aventura Especialistas y la Asociación para el Desarrollo del Mundo Maya, hacia la educación en nuestra cultura y la historia de los antiguos mayas, así como para apoyar la protección y la investigación de Guatemala de patrimonio. Este sitio está en constante revisión y actualización amd todo el precio publicado es actual y fiable..</p>"
+      },
+      {
+        "text": "<p>Esperamos que disfruten de www.parque-tikal.com  y de su versión en ingles www.tikalpark.com </p>"
+      },
+      {
+        "text": "<p>Escríbanos a tikalpark@tikalpark.com para organizar su visita a Tikal y a Guatemala, un mágico paraíso natural y un mosaico cultural en el centro del Mundo Maya.</p>"
+      }
+    ]
+  }
+}

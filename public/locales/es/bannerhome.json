@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "tag": "Tikal - Reserva de Biósfera Maya - El Petén - Guatemala - Mundo Maya",
+    "title": "Tikal es el sitio excavado más grande de las Américas y contiene algunos de los restos arqueológicos más fascinantes de la antigua civilización Maya",
+    "bullets": [
+      { "text": "Arqueología e Historia del periodo Clásico Maya" },
+      {
+        "text": "Sitio Sagrado Maya y destino principal del norte de Guatemala"
+      },
+      {
+        "text": "Santuario de aves, mamíferos e infinidad de especies Neotropicales"
+      },
+      { "text": "Amaneces inolvidables" }
+    ],
+    "button": {
+      "text": " Más Información",
+      "href": "/tikal_home"
+    },
+    "video": {
+      "url_video": "U5htblOxNHQ",
+      "text": "Tikal, Tuyo para descubrir"
+    }
+  }
+}

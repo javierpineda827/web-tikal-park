@@ -1,0 +1,30 @@
+{
+  "group_images": [
+    {
+      "alt": "Tikal",
+      "url_image": "/imgs/page/home/skyward/001CRTikal.jpg"
+    },
+    {
+      "alt": "4x4_adventure",
+      "url_image": "/imgs/page/home/skyward/4x4_adventure_2.jpg"
+    },
+    {
+      "alt": "Background08",
+      "url_image": "/imgs/page/home/skyward/Background08.jpg"
+    },
+    {
+      "alt": "chicabal_lagoon",
+      "url_image": "/imgs/page/home/skyward/chicabal_lagoon.jpg"
+    }
+  ],
+  "label": "Únete a nuestros",
+  "title": "El Parque Tikal y todos nuestros destinos alrededor de Guatemala y el Mundo Maya se han colocado exitosamente en una posición privilegiada como destinos únicos y vibrantes a lo largo de la Ruta Maya",
+  "description": "debido a la exquisita mezcla de selva y sitios de patrimonio cultural, ciudades históricas y atractivos naturales prístinos por descubrir en donde pueden experimentarse las mejores aventuras que uno pudiera desear hacer en esta parte del mundo",
+  "group_slider": [
+    { "alt": "stripe", "url_image": "/imgs/template/icons/stripe.png" },
+    { "alt": "paypal", "url_image": "/imgs/template/icons/paypal.png" },
+    { "alt": "mastercard", "url_image": "/imgs/template/icons/mastercard.png" },
+    { "alt": "stripe", "url_image": "/imgs/template/icons/stripe.png" },
+    { "alt": "skrill", "url_image": "/imgs/template/icons/skrill.png" }
+  ]
+}

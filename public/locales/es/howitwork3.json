@@ -1,0 +1,28 @@
+{
+  "how_it_work": {
+    "title": "¿Cómo funciona?",
+    "text": "Sólo 4 pasos fáciles y rápidos",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Selecciona el Destino",
+        "text": "Comienza contactanos, para agendar la ciudad de salida, destino, fechas de viaje y número de personas"
+      },
+      {
+        "number": 2,
+        "title": "Confirma los datos",
+        "text": "Revise los resultados de la búsqueda y compare los detalles de cada vuelo, incluidas las horas de salida y llegada duración y precios."
+      },
+      {
+        "number": 3,
+        "title": "Proporcionar información a los pasajeros",
+        "text": "información necesaria sobre los pasajeros personas que viajan, incluidos nombres, datos de contacto y cualquier solicitud especial"
+      },
+      {
+        "number": 4,
+        "title": "Pago y confirmación",
+        "text": "Revise el resumen de la reserva, incluido el coste total, detalles del tour e información sobre los visitantes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "",
+  "location": { "text": "", "href": "#" },
+  "article": {
+    "title": "Visita Tikal desde el aeropuerto, desde tu hotel en Flores o desde tu hotel en Tikal... ",
+    "label_1": "",
+    "paragraph_1": "  Puedes elegir entre nuestras distintas opciones de tours para visitar Tikal desde Belice. Puedes visitar Tikal por el día empezando desde San Ignacio Cayo o desde la frontera, nuestros tours privados son muy buena opción para cuando solo quieres visitar Tikal desde la frontera utilizando transportación terrestre privada. Nuestras opciones de tour de un día tienen un enfoque en la arqueología, pero también puedes apreciar el amanecer o el atardecer con uno de nuestros guías si quisieras pasar una o dos noches en Tikal. Si estas interesado en nuestra flora y fauna nuestro tour de historia natural es para ti... Si tiene la oportunidad única de visitar nuestro parque para la luna llena puedes considerar incluir nuestro tour especial de la luna y las estrellas... ",
+    "paragraph_2": "",
+    "paragraph_3": "",
+    "paragraph_4": "",
+    "paragraph_5": "Para reservaciones y mayor información, escríbenos a  <a href='mailto:tikalpark@tikalpark.com'>tikalpark@tikalpark.com</a> Si estas seguro del monto a pagar en US$ y quiere realizar tu pago utilizando su tarjeta VISA por favor oprime aquí",
+    "paragraph_6": "",
+    "cards": [
+      {
+        "id": "1",
+        "title": "3 DIAS & 2 NOCHES DESDE BELICE incluyendo boletos aéreos",
+        "text": "  Nuesto paquete inicia desde la Ciudad de Belice con un vuelo a Flores y transportación privada a Tikal. Debido a los horarios de los vuelos necesitarás al menos 3 dias y 2 noches para explorar el magnífico sitio de Tikal. Con gusto podemos agregar también a tu itinerario un tour del amanecer o del atardarcer a su itinerario.",
+        "img": "/imgs/page/tour/tikal_tours.jpg",
+        "href": "/tikbz32air"
+      },
+      {
+        "id": "2",
+        "title": "3 DIAS & 2 NOCHES DESDE BELICE con transportación colectiva",
+        "text": "  Puedes viajar a Tikal desde la Ciudad de Belice utilizando transportacion terreste colectiva (autobús). Esta visita de 3 días y 2 noches puede ayudarte a estirar tu presupuesto y conocer más de Tikal con nuestros guías expertos. Tendra que escoger entre pasar 2 noches en Tikal o 1 noche en Tikal & 1 noche en Flores. ",
+        "img": "/imgs/page/tour/Tikal_from_Cancun.jpg",
+        "href": "/tikbz32bus"
+      },
+      {
+        "id": "3",
+        "title": "3 DIAS & 2 NOCHES DESDE BELICE incluyendo boletos aéreos",
+        "text": "  Si no dispones de mucho tiempo y quieres pasar solo un día en Tikal es posible hacerlo si empiezas desde la frontera o desde San Ignacio Cayo, no tienes que perderte la oportunidad de ver los imponentes templos de Tikal que no estan lejos de San Ignacio. Nuestro tour inicia desde la frontera con un transporte terreste privado (o desde tu hotel con un costo adicional).",
+        "img": "/imgs/page/tour/Tikal_from_Belize.jpg",
+        "href": "/tikbzod"
+      },
+      {
+        "id": "4",
+        "title": "2 DIAS & 1 NOCHE DESDE SAN IGNACIO O DESDE LA FRONTERA",
+        "text": "  Puedes tener una fascinante experiencia visitando Tikal por 2 días y 1 noche desde la frontera o desde San Ignacio Cayo este tour incluye transportacion terrestre privada a Tikal desde la frontera o desde tu hotel en San Ignacio Cayo con un costo adicional...",
+        "img": "/imgs/page/tour/Tikal_from_Palenque.jpg",
+        "href": "/tikbz21mf"
+      },
+      {
+        "id": "5",
+        "title": "4 DIAS Y 3 NOCHES DESDE BELICE por tierra con el Tour Lamanai",
+        "text": "  Si no dispones de mucho tiempo y quieres pasar solo un día en Tikal es posible hacerlo si empiezas desde la frontera o desde San Ignacio Cayo, no tienes que perderte la oportunidad de ver los imponentes templos de Tikal que no estan lejos de San Ignacio. Nuestro tour inicia desde la frontera con un transporte terreste privado (o desde tu hotel con un costo adicional)",
+        "img": "/imgs/page/tour/Tikal_from_Guatemala_City.jpg",
+        "href": "/tikbz4d3n"
+      },
+      {
+        "id": "6",
+        "title": "3 DIAS & 2 NOCHES DESDE BELICE por tierra con el Tour ATM River Cave",
+        "text": "  Puedes tener una fascinante experiencia visitando Tikal por 2 días y 1 noche desde la frontera o desde San Ignacio Cayo este tour incluye transportacion terrestre privada a Tikal desde la frontera o desde tu hotel en San Ignacio Cayo con un costo adicional...",
+        "img": "/imgs/page/tour/Tikal_from_Chetumal.jpg",
+        "href": "/tikbzATM"
+      }
+    ],
+
+    "label_2": "",
+    "paragraph_7": "",
+    "paragraph_8": "",
+    "paragraph_9": "",
+    "paragraph_10": "",
+    "paragraph_11": "",
+    "paragraph_12": "",
+    "paragraph_13": "",
+    "paragraph_14": "",
+    "paragraph_15": "",
+    "thanks": "",
+
+    "fig_img_1": "",
+    "fig_caption_1": "",
+
+    "fig_img_2": "",
+    "fig_caption_2": "",
+    "fig_img_3": "",
+    "fig_caption_3": ""
+  },
+  "aside": {
+    "title": "",
+    "fig_img_1": "",
+    "fig_caption_1": "",
+    "fig_caption_2": "",
+    "paragraphs": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  }
+}

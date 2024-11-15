@@ -1,0 +1,271 @@
+{
+  "header": {
+    "top_label": "",
+    "top_message_link": "",
+    "nav_menu": {
+      "home": {
+        "title": "Inicio",
+        "href": "/",
+        "section": {
+          "title": "Bienvenido a Tikal",
+          "message": "¡Explora la ciudad maya más importante!",
+          "text_button": "Saber Más",
+          "href": "/tikal_home"
+        },
+        "card_1": {
+          "title": "Mayas",
+          "href": "/mayas",
+          "icon": "/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Historia", "href": "#" },
+            { "id": "2", "title": "Cultura", "href": "#" },
+            { "id": "3", "title": "Exploración", "href": "#" }
+          ]
+        },
+        "card_2": {
+          "title": "Reservas Naturales",
+          "href": "/mayas",
+          "icon": "/imgs/template/icons/map.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Naturaleza", "href": "/flora" },
+            { "id": "2", "title": "Biodiversidad", "href": "/fauna" }
+          ]
+        },
+        "card_3": {
+          "title": "Reservas Naturales",
+          "href": "/Mayas",
+          "icon": "/imgs/template/icons/deck-chair.svg",
+          "href_icon": "/Mayas",
+          "tags": [
+            { "id": "1", "title": "Naturaleza", "href": "#" },
+            { "id": "2", "title": "Biodiversidad", "href": "#" }
+          ]
+        },
+        "picture": {
+          "src": "/imgs/template/world.png"
+        }
+      },
+      "art": {
+        "title": "Arte",
+        "href": "/arts",
+        "card_1": {
+          "title": "Cerámica Antigua",
+          "href": "/mayas",
+          "icon": "/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            { "id": "1", "title": "Cultura", "href": "/arquitectura" },
+            { "id": "2", "title": "Artefactos", "href": "/arts" }
+          ]
+        },
+        "card_2": {
+          "title": "Arte",
+          "href": "/mayas",
+          "icon": "/imgs/template/icons/activity.svg",
+          "href_icon": "/mayas",
+          "tags": [
+            {
+              "id": "1",
+              "title": "Observación de Aves, Tikal, Yaxhá, Fechas fijas de salida",
+              "href": "#"
+            }
+          ]
+        },
+        "featured_list_1": [
+          {
+            "href": "/explorers",
+            "className": "hotels",
+            "text": "Tikal / Los Primeros Exploradores"
+          }
+        ],
+        "featured_list_2": [
+          {
+            "href": "/index-7",
+            "className": "tours",
+            "text": "La Secuencia Dinástica de Tikal"
+          },
+          {
+            "href": "/hotels",
+            "className": "activities",
+            "text": "Calendarios y El Sistema de la Cuenta Larga"
+          },
+          {
+            "href": "/hotels",
+            "className": "destinations",
+            "text": "El Emblema Glifo de Tikal"
+          }
+        ],
+        "arch": "/arts",
+        "picture": [
+          {
+            "text": "Pieza de Cerámica",
+            "url_image": "/imgs/navbar/arts_plate.jpg",
+            "alt": "Pieza de Cerámica"
+          },
+          {
+            "text": "Sunrise Guatemala",
+            "url_image": "/imgs/navbar/Sunrise_Guatemala.jpg",
+            "alt": "Sunrise Guatemala"
+          }
+        ]
+      },
+      "science": {
+        "title": "Ciencia",
+        "meteorology": "Meteorología",
+        "hydrology": "Hidrología"
+      },
+      "transport": {
+        "title": "Transporte"
+      },
+      "lodging": {
+        "title": "Alojamiento"
+      },
+      "tours": {
+        "title": "Tours",
+        "href": "/tours",
+        "featured_list_1": [
+          {
+            "href": "/index-7",
+            "className": "hotels",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/hotels",
+            "className": "rental-car",
+            "text": "Tikal / Los Primeros Exploradores"
+          },
+          {
+            "href": "/hotels",
+            "className": "property",
+            "text": "Tikal / Los Primeros Exploradores"
+          }
+        ],
+        "picture": [
+          {
+            "text": "Icterus galbula",
+            "url_image": "/imgs/navbar/bird1.jpg",
+            "alt": "Icterus galbula"
+          },
+          {
+            "text": "Volcán de Pacaya",
+            "url_image": "/imgs/navbar/HighlandTour.jpg",
+            "alt": "Volcán de Pacaya"
+          }
+        ]
+      },
+      "maps": {
+        "title": "Mapas"
+      },
+      "contact": {
+        "title": "Contáctanos"
+      },
+      "about": {
+        "title": "Acerca de"
+      }
+    },
+    "mobile_menu": {
+      "menu_items": [
+        {
+          "title": "Arte",
+          "href": "/arts",
+          "links": [
+            {
+              "href": "/mayas",
+              "text": "mayas",
+              "url_img": ""
+            },
+            {
+              "href": "",
+              "text": "Reservas Naturales",
+              "url_img": ""
+            },
+            {
+              "href": "",
+              "text": "Asdf",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Ciencia",
+          "href": "/science",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Transporte",
+          "href": "/tranporte",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Alojamiento",
+          "href": "/hotels",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Tours",
+          "href": "/tours",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Mapas",
+          "href": "/maps",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Contáctanos",
+          "href": "/cantact-us",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        },
+        {
+          "title": "Acerca de",
+          "href": "/aboutmenu",
+          "links": [
+            {
+              "href": "",
+              "text": "",
+              "url_img": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

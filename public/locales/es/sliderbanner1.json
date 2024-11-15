@@ -1,0 +1,40 @@
+{
+  "card_info": [
+    {
+      "label": "Tikal, Guatemala",
+      "text1": "Tesoros",
+      "text2": "ocultos de Tikal",
+      "read_more": "Leer más",
+      "href": "https://www.wetravel.com/trips/hidden-treasures-of-tikal-ecotourism-adventure-specialists-llc-92684056",
+      "url_image": "https://process.filestackapi.com/resize=fit:clip,width:1440,height:1000/quality=v:79/compress/cache=expiry:604800/OImZsZrgSL2Rl1Jc9elY",
+      "text_color": "white"
+    },
+    {
+      "label": "Tikal, Guatemala",
+      "text1": "Caminata al amanecer ",
+      "text2": "y Parque Treetopia",
+      "read_more": "Leer más",
+      "href": "https://www.wetravel.com/trips/tour-al-amanecer-y-caminata-con-desayuno-ecotourism-adventure-specialists-llc-94762182",
+      "url_image": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/xGJI7OK6RNKszFj0soPL",
+      "text_color": "white"
+    },
+    {
+      "label": "Tikal, Guatemala",
+      "text1": "Tikal tour de un dia en",
+      "text2": "grupo desde flores o aeropuerto Mundo Maya",
+      "read_more": "Leer más",
+      "href": "https://www.wetravel.com/trips/tikal-tour-de-un-dia-en-grupo-desde-flores-o-aeropuerto-mundo-maya-ecotourism-adventure-specialists-llc-59404767",
+      "url_image": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/7o6PeBqTR1q8FN63DfZl",
+      "text_color": "white"
+    },
+    {
+      "label": "Tikal, Guatemala",
+      "text1": "Tour al amanecer y ",
+      "text2": "caminata con desayuno",
+      "read_more": "Leer más",
+      "href": "https://www.wetravel.com/trips/tour-al-amanecer-y-caminata-con-desayuno-ecotourism-adventure-specialists-llc-94762182",
+      "url_image": "https://process.filestackapi.com/resize=fit:crop,width:556,height:385/quality=v:79/compress/cache=expiry:604800/x3IQzTzRSAuMx2oIT2nM",
+      "text_color": "white"
+    }
+  ]
+}

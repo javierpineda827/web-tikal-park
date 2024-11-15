@@ -1,0 +1,228 @@
+{
+  "lodge": {
+    "title": "En dónde quedarse en el Parque Nacional Tikal",
+    "description": "Quédese en el Parque Nacional de Tikal y reserve su Tikal hoteles y excursiones con nosotros! Los hoteles dentro del Parque Nacional Tikal en Guatemala le ofrecen la oportunidad de ver el amanecer y la puesta de sol en Tikal, www.tikalpark.com incluye una sección sobre viajes con información sobre hoteles en el parque y ofrece los mejores tours de Tikal. <br/>Hay 3 hoteles dentro del Parque Nacional de Tikal, ubicados a sólo 1 kilómetro de la Gran Plaza de Tikal. Un bosque tropical prístino, hogar de 410 especies de aves, y cientos de especies de mamíferos, insectos y más, rodea a todos ellos.<br>Todos los hoteles de Tikal le ofrecen la oportunidad única de despertarse en medio de la selva, ver el amanecer o la puesta de sol desde lo alto de un templo de Tikal.<br>Escríbanos a tikalpark@tikalpark.com para organizar su visita a Tikal y Guatemala, un mágico paraíso natural y un mosaico cultural en el corazón del Mundo Maya.",
+
+    "list_loged": [
+      {
+        "title": "Hoteles en el Parque Nacional Tikal",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/001Tikalinn.jpg",
+        "description": "Hay 3 hoteles dentro del Parque Nacional Tikal y se encuentran a sólo 1 kilómetro de distancia de la Gran Plaza de Tikal. Un bosque tropical prístino, hogar de 410 especies de aves y cientos de mamíferos, insectos y otras especies, los rodean. Todos los hoteles de Tikal le ofrecen la oportunidad única de despertarse en medio de la selva, ver el amanecer o la puesta de sol desde la cima de un Templo Tikal... Lea más..."
+      },
+      {
+        "title": "Hoteles en el Parque Nacional Tikal",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/tours/Tikal_from_Cancun.jpg",
+        "description": "El Remate está a sólo 34 kilómetros, del Parque Nacional Tikal. Esta ubicación ofrece la oportunidad de permanecer cerca del mayor cuerpo de agua en la península de Yucatán, el lago Peten Itzá. Refrésquese nadando después de un día lleno de emocionantes exploraciones en Tikal, disfrute de algunos de los mejores lugares para observar aves en nuestro país o tome un paseo en barco por el Lago Petén Itzá. Disfrute de la comodidad y entretenimientos en la selva y cerca de Tikal.... Lea más..."
+      },
+      {
+        "title": "Hoteles en Flores & Santa Elena",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/001Isladeflores.jpg",
+        "description": "La Isla de Flores es un buen lugar para alojarse cuando visite Tikal, sobre todo si tiene un vuelo temprano o traslado terrestre. Una bonita isla con interesante arquitectura caribeña, Flores es también una buena opción para aquellos que quieran experimentar una ciudad y vida nocturna en la región de Petén. Flores ofrece las opciones de alojamiento más asequibles con opciones de transporte fáciles para aquellos con vuelos tempranos o traslados en autobús... Lea más..."
+      },
+      {
+        "title": "Hoteles exclusivos en el área de Flores - Tikal",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/tours/Tikal_from_Palenque.jpg",
+        "description": "Si usted está buscando un hotel de lujo con todas las comodidades, tenemos opciones exclusivas que le interesarán. Estaremos encantados de organizar su estancia en un exclusivo hotel boutique en Peten, ofreciendo todas las comodidades para su visita a Tikal... Lea más.."
+      },
+      {
+        "title": "Hoteles en otros destinos de Guatemala",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/001Antigua.jpg",
+        "description": "Reserva tu hotel en otros destino de Guatemala tales como: Antigua Guatemala, Lago de Atitlán (Panajachel), Chichicastenango, Takalik Abaj, la Ciudad de Guatemala, entre otros. Lea más..."
+      },
+      {
+        "title": "Hoteles en otros destinos de Belice",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/001Belize.jpg",
+        "description": "Si tu próximo destino es Belice no olvides que podemos arreglar para ti alojamiento en San Ignacio Cayo District, la Ciudad de Belice, San Pedro Ambergris Caye, Placencia y otros destinos. Lea más..."
+      }
+    ],
+
+    "articles": [
+      {
+        "children": "Hoteles en el Parque Nacional Tikal",
+        "title": "Jungle Lodge o Posada de la Selva",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/Nuevas/hotels/jungle_lodge.JPG",
+        "description": "El Jungle Lodge ofrece la opción de alojamiento más cómoda en el Parque Nacional Tikal. Con una hermosa piscina, duchas de agua caliente y ventiladores de techo, este lujoso hotel ha sido recientemente renovado y ofrece una amplia gama de tipos de habitaciones y paquetes. Como verá todas las habitaciones en Tikal vienen con una sinfonía de aves, cortesía de la selva.    Leer más...  ",
+        "content": {
+          "title": "Jungle Lodge o Posada de la Selva",
+          "description": "En el Jungle Lodge deberás tomar un paquete la primera noche y puedes agregar las noches adicionales que desees. En el listado de abajo aparece el precio del paquete sin la entradas al parque que puede incluirse también. Para mayor información por favor escríbenos a: tikalpark@tikalpark.com ",
+          "list": [
+            {
+              "title": "Paquete Standard de 2 días 1 noche",
+              "subtitle": "TEMPORADA ALTA / TEMPORADA BAJA",
+              "terms": "Este paquete representa el mejor valor por tu dinero e incluye una noche de alojamiento, un tour guiado con un guía profesional empezando desde el lobby de su hotel a las 10 a.m. y almuerzo (sin bebidas) y todos los impuestos aplicables. Los paquetes anteriores NO incluyen la entrada al parque.",
+              "prices": [
+                {
+                  "habitacion": "Sencilla Standard",
+                  "precioPorPersonaPrimeraNoche": 220.9,
+                  "precioPorPersonaSoloNoche": 197.11
+                },
+                {
+                  "habitacion": "Doble Standard",
+                  "precioPorPersonaPrimeraNoche": 153.5,
+                  "precioPorPersonaSoloNoche": 140.61
+                },
+                {
+                  "habitacion": "Triple Standard",
+                  "precioPorPersonaPrimeraNoche": 131.03,
+                  "precioPorPersonaSoloNoche": 121.12
+                },
+                {
+                  "habitacion": "Cuadruple Standard",
+                  "precioPorPersonaPrimeraNoche": 119.3,
+                  "precioPorPersonaSoloNoche": 111.37
+                },
+                {
+                  "habitacion": "Sencilla Premium",
+                  "precioPorPersonaPrimeraNoche": 230.82,
+                  "precioPorPersonaSoloNoche": 207.03
+                },
+                {
+                  "habitacion": "Doble Premium",
+                  "precioPorPersonaPrimeraNoche": 158.45,
+                  "precioPorPersonaSoloNoche": 145.57
+                },
+                {
+                  "habitacion": "Triple Premium",
+                  "precioPorPersonaPrimeraNoche": 134.33,
+                  "precioPorPersonaSoloNoche": 124.42
+                },
+                {
+                  "habitacion": "Cuadruple Premium",
+                  "precioPorPersonaPrimeraNoche": 121.78,
+                  "precioPorPersonaSoloNoche": 113.85
+                },
+                {
+                  "habitacion": "Sencilla Junior Suite",
+                  "precioPorPersonaPrimeraNoche": 276.41,
+                  "precioPorPersonaSoloNoche": 246.68
+                },
+                {
+                  "habitacion": "Doble Junior Suite",
+                  "precioPorPersonaPrimeraNoche": 182.24,
+                  "precioPorPersonaSoloNoche": 167.38
+                },
+                {
+                  "habitacion": "Triple Junior Suite",
+                  "precioPorPersonaPrimeraNoche": 150.99,
+                  "precioPorPersonaSoloNoche": 140.94
+                },
+                {
+                  "habitacion": "Cuadruple Junior Suite",
+                  "precioPorPersonaPrimeraNoche": 135.16,
+                  "precioPorPersonaSoloNoche": 127.73
+                },
+                {
+                  "habitacion": "Niños menores de 10 años",
+                  "precioPorPersonaPrimeraNoche": 101.73,
+                  "precioPorPersonaSoloNoche": 101.73
+                },
+                {
+                  "habitacion": "Niños menores de 2 años",
+                  "precioPorPersonaPrimeraNoche": "Gratis",
+                  "precioPorPersonaSoloNoche": "Gratis"
+                }
+              ]
+            },
+            {
+              "title": "Paquete Standard de 2 días 1 noche",
+              "subtitle": "TEMPORADA ALTA / TEMPORADA BAJA",
+              "terms": "Este paquete representa el mejor valor por tu dinero e incluye 2 noches de alojamiento, un tour guiado con un guía profesional empezando desde el lobby de su hotel a las 10 a.m. y almuerzo (sin bebidas) y todos los impuestos aplicables.  Los paquetes anteriores NO incluyen la entrada al parque.",
+              "prices": [
+                {
+                  "habitacion": "Sencilla Standard",
+                  "precioPorPersonaAmbasNoches": 430.43,
+                  "precioPorPersonaSoloNoche": 382.85
+                },
+                {
+                  "habitacion": "Doble Standard",
+                  "precioPorPersonaAmbasNoches": 295.62,
+                  "precioPorPersonaSoloNoche": 269.85
+                },
+                {
+                  "habitacion": "Triple Standard",
+                  "precioPorPersonaAmbasNoches": 250.68,
+                  "precioPorPersonaSoloNoche": 230.86
+                },
+                {
+                  "habitacion": "Cuadruple Standard",
+                  "precioPorPersonaAmbasNoches": 227.22,
+                  "precioPorPersonaSoloNoche": 211.36
+                },
+                {
+                  "habitacion": "Sencilla Premium",
+                  "precioPorPersonaAmbasNoches": 450.26,
+                  "precioPorPersonaSoloNoche": 402.68
+                },
+                {
+                  "habitacion": "Doble Premium",
+                  "precioPorPersonaAmbasNoches": 305.53,
+                  "precioPorPersonaSoloNoche": 279.76
+                },
+                {
+                  "habitacion": "Triple Premium",
+                  "precioPorPersonaAmbasNoches": 257.29,
+                  "precioPorPersonaSoloNoche": 237.46
+                },
+                {
+                  "habitacion": "Cuadruple Premium",
+                  "precioPorPersonaAmbasNoches": 232.18,
+                  "precioPorPersonaSoloNoche": 216.32
+                },
+                {
+                  "habitacion": "Sencilla Junior Suite",
+                  "precioPorPersonaAmbasNoches": 541.45,
+                  "precioPorPersonaSoloNoche": 481.98
+                },
+                {
+                  "habitacion": "Doble Junior Suite",
+                  "precioPorPersonaAmbasNoches": 353.11,
+                  "precioPorPersonaSoloNoche": 323.38
+                },
+                {
+                  "habitacion": "Triple Junior Suite",
+                  "precioPorPersonaAmbasNoches": 290.6,
+                  "precioPorPersonaSoloNoche": 270.51
+                },
+                {
+                  "habitacion": "Cuadruple Junior Suite",
+                  "precioPorPersonaAmbasNoches": 258.94,
+                  "precioPorPersonaSoloNoche": 244.08
+                },
+                {
+                  "habitacion": "Niños menores de 10 años",
+                  "precioPorPersonaAmbasNoches": 136.18,
+                  "precioPorPersonaSoloNoche": 136.18
+                },
+                {
+                  "habitacion": "Niños menores de 2 años",
+                  "precioPorPersonaAmbasNoches": "Gratis",
+                  "precioPorPersonaSoloNoche": "Gratis"
+                }
+              ]
+            }
+          ],
+          "information": "Este paquete representa el mejor valor por tu dinero e incluye 2 noches de alojamiento, un tour guiado con un guía profesional empezando desde el lobby de su hotel a las 10 a.m. y almuerzo (sin bebidas) y todos los impuestos aplicables.  Los paquetes anteriores NO incluyen la entrada al parque.",
+          "Notes": {
+            "i": "TEMPORADA ALTA: Enero, Febrero, Marzo, Abril, Julio, Agosto, Noviembre y Diciembre 2020.",
+            "ii": "TEMPORADA ALTA: Enero, Febrero, Marzo, Abril, Julio, Agosto, Noviembre y Diciembre 2020.",
+            "iii": "Seis habitaciones standard, 8 habitaciones Premium y 6 Jr. Suites tienen dos camas dobles o matrimoniales y 2 standards y 2 Jr. Suites tienen tienen cada habitacion una cama King size."
+          }
+        }
+      },
+      {
+        "children": "Hoteles en el Parque Nacional Tikal",
+        "title": "Tikal Inn",
+        "href": "",
+        "url_image": "http://parque-tikal.com/ckfinder/userfiles/images/Nuevas/hotels/jungle_lodge.JPG",
+        "description": "El Jungle Lodge ofrece la opción de alojamiento más cómoda en el Parque Nacional Tikal. Con una hermosa piscina, duchas de agua caliente y ventiladores de techo, este lujoso hotel ha sido recientemente renovado y ofrece una amplia gama de tipos de habitaciones y paquetes. Como verá todas las habitaciones en Tikal vienen con una sinfonía de aves, cortesía de la selva.    Leer más...  "
+      }
+    ]
+  }
+}

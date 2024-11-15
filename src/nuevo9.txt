@@ -1,0 +1,17 @@
+DB_9C1368_parquetikal	
+	DB_9C1368_miradorpark_admin	Tetradactyla123!
+	
+DB_9C1368_miradorpark	
+	DB_9C1368_miradorpark_admin	Tetradactyla123!
+
+DB_9C1368_palenquepark	
+	DB_9C1368_palenquepark_admin	Tetradactyla123!
+	
+
+
+
+DB_9C1368_mayaworld
+		DB_9C1368_mayaworld_admin	Tetradactyla123!
+		
+		
+		

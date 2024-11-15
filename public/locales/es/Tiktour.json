@@ -1,0 +1,110 @@
+{
+  "title": "",
+  "location": { "text": "", "href": "#" },
+  "article": {
+    "title": "Visita Tikal desde el aeropuerto, desde tu hotel en Flores o desde tu hotel en Tikal... ",
+    "label_1": "",
+    "paragraph_1": "    Puedes elegir entre nuestras opciones de tours de Tikal y visitar Tikal por el día con un grupo o con un guía solo para ti y tus acompañantes, en nuestro tour privado de Tikal. Nuestras opciones de tour de un día son para un tour arqueológico, pero también puedes apreciar el amanecer o el atardecer con uno de nuestros guías expertos. Si estás interesado en nuestra flora y fauna nuestro tour de historia natural es para ti... Si tienes la oportunidad única de visitar nuestro parque en luna llena quizá quieras considerar hacer nuestro tour de la luna y las estrellas...",
+    "paragraph_2": "",
+    "paragraph_3": "",
+    "paragraph_4": "",
+    "paragraph_5": "Para reservaciones y mayor información, escríbenos a  <a href='mailto:tikalpark@tikalpark.com'>tikalpark@tikalpark.com</a>",
+    "paragraph_6": "",
+    "cards": [
+      {
+        "id": "1",
+        "title": "Tour de Un Dia en Grupo",
+        "text": "  Visita el Parque Tikal por un día desde la Isla de Flores o desde el Aeropuerto Mundo Maya. También puedes empezar la visita directamente desde tu hotel en Tikal... Descubre los complejos arquitectónicos más importantes de Tikal, su historia y la naturaleza en este sitio de patrimonio mundial, con un guía profesional. Nuestro tour tiene un costo de US$ 78 por persona sin boleto aéreo y comienza a las 7 a.m. desde Flores o a las 7:30 am desde el aeropuerto con la transportación terrestre; o directamente en el parque a las 9 am. El traslado de regreso al aeropuerto o a tu hotel en Flores, sale de Tikal a las 2 p.m. o 6 p.m.",
+        "img": "/imgs/page/tour/tikal_tours.jpg",
+        "href": "/tikgrouptour"
+      },
+      {
+        "id": "2",
+        "title": "Tour de Un Día Privado",
+        "text": "  Si quieres realizar una exploración más profunda del Parque Tikal esta opción es excelente para ti y tus acompañantes, pues tener un tour privado te brinda la flexibilidad de visitar el parque a tu ritmo y en el horario que tu prefieras.  Este tour puede incluir la transportación desde la Isla de Flores o desde el Aeropuerto Mundo Maya, 64 kilómetros al sur del Parque Nacional Tikal. Entre las opciones más populares está el tour privado de día completo incluyendo la visita guiada, la transportación terrestre y la comida o almuerzo sin bebidas. Nuestros tours no incluyen la entrada al parque.",
+        "img": "/imgs/page/tour/Tikal_from_Cancun.jpg",
+        "href": "/tikprivatetour"
+      },
+      {
+        "id": "3",
+        "title": "Tour del Amanecer",
+        "text": "  Uno de los tours más especiales es la Visita de Tikal al Amanecer, que te brinda la oportunidad de ver un amanecer espectacular sobre la selva, desde lo alto de un templo Maya, escuchando los sonidos del despertar de la fauna residente del parque. Normalmente, el tour se agrega a tu itinerario, pero puede hacerse también como un tour privado independiente, cuyo costo es de US$ 108.33 para un mínimo de 1 persona y un máximo de 6 participantes. La opción de un tour en grupo tiene un costo de tan solo US$ 32.50 por persona, empezando desde tu hotel en Tikal. La transportación desde Flores puede agregarse a la opción de tour privado...",
+        "img": "/imgs/page/tour/Tikal_from_Belize.jpg",
+        "href": "/sunrisetour"
+      },
+      {
+        "id": "4",
+        "title": "Tour del Atardecer",
+        "text": "  El tour del atardecer te brinda la oportunidad de ver desaparecer el sol en el horizonte de la selva Maya, mientras cae la noche y las estrellas empiezan a brillar sobre los templos de Tikal. Este tour normalmente se agrega a tu itinerario pero puede hacerse como un tour independiente, que tiene un costo de US$ 108.33 para un máximo de 6 participantes empezando desde su hotel en Tikal (sin la transportación desde Flores)...",
+        "img": "/imgs/page/tour/Tikal_from_Palenque.jpg",
+        "href": "/sunsetour"
+      },
+      {
+        "id": "5",
+        "title": "Tikal Canopy Tour",
+        "text": "  En este tour de aventura y adrenalina puedes volar entre las copas de los árboles, trasladandote por medio de un arnés con poleas, yendo de una plataforma a otra de las 9 plataformas que lo conforman, con equipo especializado para este tipo de aventura y guías profesionales. El Tour de Canopy o tirolesa es muy seguro y te ofrece la oportunidad de incluir momentos emocionantes que puedes agregar a tu experiencia en la Selva Maya, como parte de tu visita.",
+        "img": "/imgs/page/tour/Tikal_from_Guatemala_City.jpg",
+        "href": "/canopytours"
+      },
+      {
+        "id": "6",
+        "title": "Tour de Historia Natural o Luna Llena",
+        "text": "  El tour de Historia Natural te ofrece  la oportunidad de aprender sobre la naturaleza en Tikal. Podras apreciar nuestra biodiversidad: la flora y fauna de Tikal. Este tour normalmente se agrega a tu itinerario pero puede hacerse como un tour independiente, que tiene un costo de US$ 108.33 para un mínimo de 1 persona y un máximo de 6 participantes empezando desde su hotel en Tikal (sin la transportación desde Flores)... ",
+        "img": "/imgs/page/tour/Tikal_from_Chetumal.jpg",
+        "href": "/naturalhistorytour"
+      }
+    ],
+
+    "label_2": "",
+    "paragraph_7": "",
+    "paragraph_8": "",
+    "paragraph_9": "",
+    "paragraph_10": "",
+    "paragraph_11": "",
+    "paragraph_12": "",
+    "paragraph_13": "",
+    "paragraph_14": "",
+    "paragraph_15": "",
+    "thanks": "",
+
+    "fig_img_1": "",
+    "fig_caption_1": "",
+
+    "fig_img_2": "",
+    "fig_caption_2": "",
+    "fig_img_3": "",
+    "fig_caption_3": ""
+  },
+  "aside": {
+    "title": "",
+    "fig_img_1": "",
+    "fig_caption_1": "",
+    "fig_caption_2": "",
+    "paragraphs": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  }
+}
