@@ -17,7 +17,7 @@ i18n
   .use(HttpBackend) // Usa el backend HTTP para cargar traducciones
   .use(initReactI18next) // Soporte para react-i18next
   .init({
-    lng: "es", // Idioma predeterminado
+    lng: "en", // Idioma predeterminado
     fallbackLng: "es", // Idioma de respaldo si no encuentra la traducción
     backend: {
       loadPath: `${API_LANG_URL}/locales/{{lng}}/{{ns}}.json`, // URL de tu endpoint
