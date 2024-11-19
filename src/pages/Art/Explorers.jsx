@@ -8,7 +8,7 @@ import { Figure, FigureCaption, FigureImage } from "react-bootstrap";
 import IconChevronRightLight from "../../components/ui/IconChevronRightLight";
 import { Trans, useTranslation } from "react-i18next";
 
-export default function Explorers() {
+export default function z() {
   const { t } = useTranslation("Explorers");
   const [isAccordion, setIsAccordion] = useState(null);
 

@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "tag": "Tikal - Maya Biosphere Reserve - El Petén - Guatemala - Mayan World",
+    "title": "Tikal is the largest excavated site in the Americas and contains some of the most fascinating archaeological remains of the ancient Mayan civilization.",
+    "bullets": [
+      { "text": "Archeology and History of the Classic Mayan period" },
+      {
+        "text": "Sacred Mayan site and main destination in northern Guatemala"
+      },
+      {
+        "text": "Sanctuary for birds, mammals and countless Neotropical species"
+      },
+      { "text": "Unforgettable sunrises" }
+    ],
+    "button": {
+      "text": " More Information",
+      "href": "/tikal_home"
+    },
+    "video": {
+      "url_video": "U5htblOxNHQ",
+      "text": "Tikal, Yours to Discover"
+    }
+  }
+}

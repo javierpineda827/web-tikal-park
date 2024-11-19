@@ -1,0 +1,33 @@
+{
+  "aside": {
+    "info": {
+      "title": "Tikal National Park Information",
+      "hours": "Tikal National Park is open 365 days a year. Hours are 6 a.m. to 6 p.m.",
+      "cost_entry_text": "Entry cost:",
+      "cost_entry_price": "Q 150 (US$ 20) for foreigners, Q 25 for nationals.",
+      "label_contact_us": "contact:",
+      "label_email": "Email:",
+      "email": "tikalpark@tikalpark.com",
+      "label_phone": "Phones:",
+      "phone_1": "(502) 2367-2837",
+      "phone_2": "(502) 2339-6516",
+      "label_fax": "Fax:",
+      "fax": "(502) 2337-4400",
+      "label_address_gt": "Dirección en Guatemala:",
+      "company_name": "ECOTOURISM & ADVENTURE SPECIALISTS",
+      "address": "10 avenida 10-60 Zona 14, # 7D, Guatemala City 01014 Guatemala",
+      "label_address_us": "Dirección en USA:",
+      "company_name_en": "ECOTOURISM & ADVENTURE SPECIALISTS",
+      "address_us": "P.O. Box 661447, Miami, Florida 33266 USA",
+      "label_phone_us": "phone en USA: ",
+      "phone_us": "(415) 799-9379",
+      "webmaster": "WebMaster:",
+
+      "email_2": "ecoadventurelatinamerica@gmail.com",
+      "comment": "We are redesigning our website to improve mobile viewing and make it compatible with our apps.",
+      "label_visit": "Organize your visit to Tikal:",
+      "write_to": "Write to us at",
+      "description": "to organize your visit to Tikal, a magical natural paradise in the center of the Mayan World."
+    }
+  }
+}
